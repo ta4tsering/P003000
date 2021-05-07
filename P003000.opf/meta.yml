@@ -1,0 +1,49 @@
+id: P003000
+initial_creation_type: ocr
+source_metadata:
+  id: bdr:W2PD19364
+  title: བོད་རིག་པ་དུས་དེབ། ༼རྒྱ་ཡིག༽
+  author: ''
+  volumes:
+    3cf729c6cebb45bba981ef20cd603e1d:
+      image_group_id: I4PD4658
+      title: ''
+      volume_number: 1
+      total_pages: 252
+      base_file: v001.txt
+    5c650f5f1364452b996b4ddcd41bba81:
+      image_group_id: I4PD4659
+      title: ''
+      volume_number: 2
+      total_pages: 218
+      base_file: v002.txt
+    d776e05d3c234c60a53bb30bc3f0761d:
+      image_group_id: I4PD4660
+      title: ''
+      volume_number: 3
+      total_pages: 316
+      base_file: v003.txt
+    bfec174bf0ff4e9eb5295d12aa5cb6cc:
+      image_group_id: I4PD4661
+      title: ''
+      volume_number: 4
+      total_pages: 316
+      base_file: v004.txt
+    d6297cf83db3420ca325862a16eb0c9c:
+      image_group_id: I4PD4662
+      title: ''
+      volume_number: 5
+      total_pages: 278
+      base_file: v005.txt
+    ae38f11f889148689a3f1c261b1726a4:
+      image_group_id: I4PD4663
+      title: ''
+      volume_number: 6
+      total_pages: 213
+      base_file: v006.txt
+    10f0cdf8e0a547eb93e26ff111a7bc89:
+      image_group_id: I4PD4664
+      title: ''
+      volume_number: 7
+      total_pages: 338
+      base_file: v007.txt
